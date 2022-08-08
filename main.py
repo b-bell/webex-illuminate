@@ -12,7 +12,6 @@ myID = webexOptions['myID']
 url = webexOptions['baseUrl'] + myID
 token = webexOptions['token']
 
-# pHue variables
 phueOptions = config['phue']
 bridgeIpAddress = phueOptions['bridgeIpAddress']
 
